@@ -6,3 +6,4 @@ devops
 maven
 nexus
 sonar
+amend
