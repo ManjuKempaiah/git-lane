@@ -4,3 +4,4 @@ node js
 aws
 devops
 maven
+nexus
